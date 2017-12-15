@@ -14,6 +14,12 @@ int main()
     Person p2("Sam", "Leclerc");
     cout << "\t" << p2.ToString() << endl;
 
+    Person p3("Samuel", "Leclerc");
+    cout << "\t" << p2.ToString() << endl;
+
+    Person p4("Sam", "Leclerc");
+    cout << "\t" << p2.ToString() << endl;
+
     cout << endl;
 
     return 0;
