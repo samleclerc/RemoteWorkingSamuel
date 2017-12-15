@@ -17,6 +17,9 @@ int main()
     Person p3("Sam", "Leclerc");
     cout << "\t" << p2.ToString() << endl;
 
+    Person p4("Sam", "Leclerc");
+    cout << "\t" << p2.ToString() << endl;
+
     cout << endl;
 
     return 0;
